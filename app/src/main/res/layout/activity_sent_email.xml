@@ -14,7 +14,7 @@
         app:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#Be5025"/>
+        android:background="#FFAF5C"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
